@@ -1,0 +1,1 @@
+A Bookmarks related to SQL server internals is available in firefox browser, Name: SQL Server Internals
